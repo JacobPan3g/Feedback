@@ -24,6 +24,7 @@
 		5F4D46A915FE128D00C38660 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
 		5F4D46AA15FE128D00C38660 /* SYSU_Client.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SYSU_Client.h; sourceTree = "<group>"; };
 		5F4D46AB15FE128D00C38660 /* SYSU_Client.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SYSU_Client.m; sourceTree = "<group>"; };
+		601863CC15FF27C30078A565 /* ACAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ACAppDelegate.h; sourceTree = "<group>"; };
 		60E1F20515FD943C00581240 /* Feedback.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Feedback.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60E1F20915FD943C00581240 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		60E1F20B15FD943C00581240 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -88,6 +89,7 @@
 				5F4D46AA15FE128D00C38660 /* SYSU_Client.h */,
 				5F4D46AB15FE128D00C38660 /* SYSU_Client.m */,
 				60E1F21815FD943C00581240 /* ACAppDelegate.h */,
+				601863CC15FF27C30078A565 /* ACAppDelegate.h */,
 				60E1F21915FD943C00581240 /* ACAppDelegate.m */,
 				60E1F21B15FD943C00581240 /* MainStoryboard.storyboard */,
 				60E1F21E15FD943C00581240 /* ACViewController.h */,
