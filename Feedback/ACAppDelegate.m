@@ -1,6 +1,6 @@
 //
 //  ACAppDelegate.m
-//  Feedback 888888
+//  Feedback
 //
 //  Created by Jacob Pan on 12-9-10.
 //  Copyright (c) 2012年 Apple Club. All rights reserved.
